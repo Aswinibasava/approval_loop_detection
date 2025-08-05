@@ -1,11 +1,11 @@
 {
-  "app_name": "Audit Log Analyzer Tool",
+  "app_name": "Approval Loop Detection App",
   "version": "1.0",
-  "default_input_file": "data/sample_audit_log.csv",
+  "default_input_file": "data/loop_approvals_data.csv",
   "output_dir": "archive/",
   "log_file": "logs/app.log",
   "enable_graph_visuals": true,
-  "ui_theme": "light",
+  "ui_theme": "dark",
   "enable_password_protection": true,
   "password": "SecureAccess2025"
 }
