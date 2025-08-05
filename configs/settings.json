@@ -1,0 +1,11 @@
+{
+  "app_name": "Audit Log Analyzer Tool",
+  "version": "1.0",
+  "default_input_file": "data/sample_audit_log.csv",
+  "output_dir": "archive/",
+  "log_file": "logs/app.log",
+  "enable_graph_visuals": true,
+  "ui_theme": "light",
+  "enable_password_protection": true,
+  "password": "SecureAccess2025"
+}
